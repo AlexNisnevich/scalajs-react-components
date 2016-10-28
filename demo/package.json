@@ -44,6 +44,7 @@
     "react-slick": "^0.9.3",
     "react-tagsinput": "^3.0.3",
     "react-tap-event-plugin": "^1.0.0",
+    "semantic-ui-react": "^0.56.12",
     "svg-loader": "0.0.2",
     "highlight.js": "8.9.1"
   }
